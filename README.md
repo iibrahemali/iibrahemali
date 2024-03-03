@@ -13,7 +13,7 @@
 Welcome to my GitHub Page!
 <br>
 <br>
-I'm Ibrahem. I do ML/DL. I'm a Freshman at F&M, double majoring in Comp Sci and Data Science. You can email me on iali@fandm.edu (Open to Collaborate!) 
+I'm Ibrahem, a Freshman at F&M, double majoring in Comp Sci and Data Science. I do ML/DL. You can email me on iali@fandm.edu (Open to Collaborate!) 
 
  </div>
 
