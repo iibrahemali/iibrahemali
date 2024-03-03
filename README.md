@@ -4,33 +4,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ibrahem+Ali!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Egypt 🇪🇬</h3>
+<h3 align="center"> A Software Engineer Based in Lanc, PA 🇺🇸</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ <i>
+Welcome to my GitHub Page!
+<br>
+<br>
+I'm Ibrahem. I do ML/DL. I'm a Freshman at F&M, double majoring in Comp Sci and Data Science. You can email me on iali@fandm.edu <br> (Open to Collaborate! P.S. Always) 
 
  </div>
 
+<br>
 
 <div align="center"> 
-  <a href="mailto:iali@fandm.edu">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahemalii/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="sqlite" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  <a href="https://linkedin.com/in/ibrahemalii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibra" height="30" width="40" /></a>
 </div>
 
  <hr/>
