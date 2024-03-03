@@ -54,9 +54,9 @@ I'm Ibrahem. I do ML/DL. I'm a Freshman at F&M, double majoring in Comp Sci and 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=iibrahemali&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="github stats"/> <br>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=iibrahemali&theme=merko&hide_border=false" alt="streaks" /> <br>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iibrahemali&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="langs" /> <br>
+  <img width=390 length=12 src="https://github-readme-stats.vercel.app/api?username=iibrahemali&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="github stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=iibrahemali&theme=merko&hide_border=false" alt="streaks" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iibrahemali&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="langs" />
 </div>
 
 <br/><br/>
