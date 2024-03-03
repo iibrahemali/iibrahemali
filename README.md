@@ -58,10 +58,10 @@ I'm Ibrahem. I do ML/DL. I'm a Freshman at F&M, double majoring in Comp Sci and 
 </div>
 
 <a>
-  <img width=300 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iibrahemali&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="github stats"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iibrahemali&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="github stats"/>
 </a>
 <a>
-  <img width=300 height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iibrahemali&theme=merko&hide_border=true" alt="streaks" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iibrahemali&theme=merko&hide_border=true" alt="streaks" />
 </a>
 <a>
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iibrahemali&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_progress=true" alt="langs" />
