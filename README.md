@@ -13,7 +13,7 @@
 Welcome to my GitHub Page!
 <br>
 <br>
-I'm Ibrahem. I do ML/DL. I'm a Freshman at F&M, double majoring in Comp Sci and Data Science. You can email me on iali@fandm.edu (Open to Collaborate! P.S. Always) 
+I'm Ibrahem. I do ML/DL. I'm a Freshman at F&M, double majoring in Comp Sci and Data Science. You can email me on iali@fandm.edu (Open to Collaborate!) 
 
  </div>
 
@@ -58,10 +58,10 @@ I'm Ibrahem. I do ML/DL. I'm a Freshman at F&M, double majoring in Comp Sci and 
 </div>
 
 <a>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=iibrahemali&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="github stats"/>
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=iibrahemali&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="github stats"/>
 </a>
 <a>
-  <img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iibrahemali&theme=merko&hide_border=true" alt="streaks" />
+  <img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iibrahemali&theme=merko&hide_border=true" alt="streaks" />
 </a>
 <a>
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iibrahemali&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_progress=true" alt="langs" />
