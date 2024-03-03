@@ -30,11 +30,11 @@ I'm Ibrahem. I do ML/DL. I'm a Freshman at F&M, double majoring in Comp Sci and 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,ruby,cpp,mysql,latex,r" />
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,firebase,figma,idea,git,aws,ai,notion,obsidian,ps,blender,matlab,replit" /><br><br>
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,ruby,cpp,mysql,latex,r,matlab" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,firebase,figma,idea,git,aws,ai,notion,obsidian,ps,blender,replit" /><br><br>
 
 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
 </div>
 <br/>
@@ -46,7 +46,7 @@ I'm Ibrahem. I do ML/DL. I'm a Freshman at F&M, double majoring in Comp Sci and 
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iibrahemali/iibrahemali/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+<br>
 </div>
 
 <hr/>
@@ -54,10 +54,9 @@ I'm Ibrahem. I do ML/DL. I'm a Freshman at F&M, double majoring in Comp Sci and 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=iibrahemali&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="github stats"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=iibrahemali&theme=merko&hide_border=false" alt="streaks" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iibrahemali&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="langs" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=iibrahemali&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="github stats"/> <br>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=iibrahemali&theme=merko&hide_border=false" alt="streaks" /> <br>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iibrahemali&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="langs" /> <br>
 </div>
 
 <br/><br/>
