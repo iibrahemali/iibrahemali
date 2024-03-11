@@ -1,37 +1,25 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iibrahemali.iibrahemali" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ibrahem+Ali!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey+There!+👋;+I'm+Ibrahem+Ali!;" />
 </h1>
 
 <h3 align="center"> A Software Engineer (Student) Based in Lanc, PA 🇺🇸 </h3>
-
-<br/>
-
 <div align="center">
 Welcome to my GitHub Page!
-<br>
-<br>
- <i>
-I'm Ibrahem, a freshman at <a href="https://www.fandm.edu"> F&M</a>, double majoring in Comp Sci and Data Science. I do ML/DL, ANI, and DS. I am passionate to collaborate on intriguing projects and solving challenges, so feel free to email me at <a href="mailto:iali@fandm.edu"> iali@fandm.edu</a> — I love to team up.
- </i>
- </div>
-
-<br>
-
+<br></br>
+<i> I'm Ibrahem, a freshman at <a href="https://www.fandm.edu"> F&M</a>, double majoring in Comp Sci and Data Science. I do ML/DL, ANI, and DS. I am passionate to collaborate on intriguing projects and solving challenges, so feel free to email me at <a href="mailto:iali@fandm.edu"> iali@fandm.edu</a> — I love to team up. </i>   
+    </br>
+    </br>
+    </div>
 <div align="center"> 
-  </a>
   <a href="https://linkedin.com/in/ibrahemalii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibra" height="30" width="40" /></a>
-</div>
-
- <hr/>
-<br>
-
+    </div>
+    <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,js,html,css,ruby,cpp,mysql,latex,r,matlab" />
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,firebase,figma,idea,git,aws,ai,notion,ps,blender" /><br><br>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,firebase,figma,idea,git,aws,ai,notion,ps,blender" /><br></br>
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) 
@@ -50,23 +38,18 @@ I'm Ibrahem, a freshman at <a href="https://www.fandm.edu"> F&M</a>, double majo
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 
 </div>
-<br/>
-
 <hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
+    <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iibrahemali/iibrahemali/output/github-contribution-grid-snake.svg" />
-  
-<br>
-</div>
-
-<hr/>
+    <br>
+    </div>
+    <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
 <!-- GRS (Light Mode) -->
 <div align="center"> 
   <a href="https://github.com/iibrahemali#gh-light-mode-only">
@@ -80,7 +63,7 @@ I'm Ibrahem, a freshman at <a href="https://www.fandm.edu"> F&M</a>, double majo
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=donut-vertical&hide_border=true&langs_count=10#gh-light-mode-only"
       alt="My Language stats"
-      height="300"
+      height="370"
     />
   </a>
 </div>
@@ -96,9 +79,9 @@ I'm Ibrahem, a freshman at <a href="https://www.fandm.edu"> F&M</a>, double majo
   </a>
   <a href="https://github.com/iibrahemali#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=pie&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=donut-vertical&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
       alt="My Language stats"
-      height="300"
+      height="370"
     />
   </a>
 </div>
