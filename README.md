@@ -49,7 +49,6 @@ Welcome to my GitHub Page!
     </div>
     <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 <!-- GRS (Light Mode) -->
 <div align="center"> 
   <a href="https://github.com/iibrahemali#gh-light-mode-only">
