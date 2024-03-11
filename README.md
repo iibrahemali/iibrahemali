@@ -81,7 +81,7 @@ Welcome to my GitHub Page!
   </a>
   <a href="https://github.com/iibrahemali#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=demo&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=donut-vertical&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
       alt="My Language stats"
       height="370"
     />
