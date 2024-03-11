@@ -106,7 +106,5 @@ Welcome to my GitHub Page!
      />
   </a>
 </div>
-<div align="left">
-</div>
 <hr/>
 <br/>
