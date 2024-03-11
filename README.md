@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ibrahem+Ali!;" />
 </h1>
 
-<h3 align="center"> A Software Engineer Based in Lanc, PA 🇺🇸</h3>
+<h3 align="center"> A Software Engineer (Student) Based in Lanc, PA 🇺🇸</h3>
 
 <br/>
 
@@ -13,7 +13,7 @@
 Welcome to my GitHub Page!
 <br>
 <br>
-I'm Ibrahem, a Freshman at F&M, double majoring in Comp Sci and Data Science. I do ML/DL. You can email me on iali@fandm.edu (Open to Collaborate!) 
+I'm Ibrahem, a freshman at F&M, double majoring in Comp Sci and Data Science. I do ML/DL. You can email me on iali@fandm.edu (Open to Collaborate!) 
 
  </div>
 
