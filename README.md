@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey+There!+👋;+I'm+Ibrahem+Ali!;" />
 </h1>
 
-<h3 align="center"> A Software Engineer (Student) Based in Lanc, PA 🇺🇸 </h3>
+<h3 align="center"> An Aspiring Software Engineer Based in Lanc, PA 🇺🇸 </h3>
 <div align="center">
 Welcome to my GitHub Page!
 <br></br>
