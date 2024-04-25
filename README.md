@@ -59,7 +59,7 @@ Welcome to my GitHub Page!
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,#gh-light-mode-only"
       alt="My Github stats"
-      height="300"
+      height="350"
     />
   </a>
 </div>
@@ -70,7 +70,7 @@ Welcome to my GitHub Page!
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&icon_color=0891b2&title_color=0891b2&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,#gh-dark-mode-only"
       alt="My Github stats"
-      height="300"
+      height="350"
     />
   </a>
 </div>
