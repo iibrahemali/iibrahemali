@@ -56,16 +56,16 @@ Welcome to my GitHub Page!
 <div align="center"> 
   <a href="https://github.com/iibrahemali#gh-light-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?      username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,#gh-light-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,#gh-light-mode-only"
       alt="My Github stats"
-      height="370"
+      height="300"
     />
   </a>
   <a href="https://github.com/iibrahemali#gh-light-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=donut-vertical&hide_border=true&langs_count=10#gh-light-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=compact&hide_border=true&langs_count=10#gh-light-mode-only"
       alt="My Language stats"
-      height="370"
+      height="200"
     />
   </a>
 </div>
@@ -74,7 +74,7 @@ Welcome to my GitHub Page!
 <div align="center"> 
   <a href="https://github.com/iibrahemali#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&icon_color=0891b2&title_color=0891b2&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,#gh-dark-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&icon_color=0891b2&title_color=0891b2&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,#gh-dark-mode-only"
       alt="My Github stats"
       height="300"
     />
