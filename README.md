@@ -84,6 +84,7 @@ Welcome to my GitHub Page!
       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=compact&icon_color=0891b2&title_color=0891b2&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
       alt="My Language stats"
       height="180"
+      width="400"
     />
   </a>
 </div>
