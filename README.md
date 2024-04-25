@@ -51,7 +51,6 @@ Welcome to my GitHub Page!
 
 
 <h2 align="center">🐞 GH Stats 🐞</h2>
-<br>
 
 <!-- GRS (Light Mode) -->
 <div align="center"> 
@@ -59,7 +58,7 @@ Welcome to my GitHub Page!
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,#gh-light-mode-only"
       alt="My Github stats"
-      height="350"
+      height="320"
     />
   </a>
 </div>
@@ -70,13 +69,12 @@ Welcome to my GitHub Page!
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&icon_color=0891b2&title_color=0891b2&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,#gh-dark-mode-only"
       alt="My Github stats"
-      height="350"
+      height="320"
     />
   </a>
 </div>
 
 <h2 align="center">📟 Languages Stats 📟</h2>
-<br>
 <!-- GRS (Light Mode) -->
 <div align="center"> 
   <a href="https://github.com/iibrahemali#gh-light-mode-only">
@@ -101,7 +99,6 @@ Welcome to my GitHub Page!
 </div>
 
 <h2 align="center">🔥 Streak 🔥</h2>
-<br>
 
 <!-- Streak stats (Light mode) -->
 <div align="center">
