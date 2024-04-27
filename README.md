@@ -56,9 +56,8 @@ Welcome to my GitHub Page!
 <div align="center"> 
   <a href="https://github.com/iibrahemali#gh-light-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,#gh-light-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&number_format=long&rank_icon=percentile&show=discussions_started#gh-light-mode-only"
       alt="My Github stats"
-      height="220px"
     />
   </a>
     
@@ -66,7 +65,6 @@ Welcome to my GitHub Page!
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=compact&hide_border=true&langs_count=10#gh-light-mode-only"
       alt="My Language stats"
-      height="215px"
     />
   </a>
 </div>
@@ -115,7 +113,7 @@ Welcome to my GitHub Page!
 
 <!-- Streak stats (Light mode) -->
 <div align="center">
-  <a href="https://github.com/iibrahemali#gh-light-mode-only"><img alt="Ibrahem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iibrahemali&bg_color=0d1117&color=ffffff&line=0891b2&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/iibrahemali#gh-light-mode-only"><img alt="Ibrahem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iibrahemali&bg_color=ffffff&color=0d1117&line=0891b2&point=0d1117&hide_border=true" /></a>
 </div>
 
 
