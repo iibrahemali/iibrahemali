@@ -53,7 +53,7 @@ Welcome to my GitHub Page!
 <h2 align="center">📟 GitHub Stats 📟</h2>
 
 <!-- GRS (Light Mode) -->
-<div align="center"> 
+<div> 
   <a href="https://github.com/iibrahemali#gh-light-mode-only">
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,#gh-light-mode-only"
