@@ -50,7 +50,7 @@ Welcome to my GitHub Page!
     <hr/>
 
 
-<h2 align="center">🐞 GH Stats 🐞</h2>
+<h2 align="center">📟 GitHub Stats 📟</h2>
 
 <!-- GRS (Light Mode) -->
 <div align="center"> 
@@ -58,45 +58,38 @@ Welcome to my GitHub Page!
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,#gh-light-mode-only"
       alt="My Github stats"
-      height="320"
+      height="230px"
     />
   </a>
-</div>
 
-<!-- GRS (Dark Mode) -->
-<div align="center"> 
-  <a href="https://github.com/iibrahemali#gh-dark-mode-only">
-    <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&icon_color=0891b2&title_color=0891b2&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,#gh-dark-mode-only"
-      alt="My Github stats"
-      height="320"
-    />
-  </a>
-</div>
-
-<h2 align="center">📟 Languages Stats 📟</h2>
-<!-- GRS (Light Mode) -->
 <div align="center"> 
   <a href="https://github.com/iibrahemali#gh-light-mode-only">
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=compact&hide_border=true&langs_count=10#gh-light-mode-only"
       alt="My Language stats"
-      height="220"
+      height="230px"
     />
   </a>
 </div>
-
 
 <!-- GRS (Dark Mode) -->
 <div align="center"> 
   <a href="https://github.com/iibrahemali#gh-dark-mode-only">
     <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&icon_color=0891b2&title_color=0891b2&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=discussions_started,#gh-dark-mode-only"
+      alt="My Github stats"
+      height="230px"
+    />
+  </a>
+  <a href="https://github.com/iibrahemali#gh-dark-mode-only">
+    <img
       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=compact&icon_color=0891b2&title_color=0891b2&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
       alt="My Language stats"
-      height="220"
+      height="230px"
     />
   </a>
 </div>
+
 
 <h2 align="center">🔥 Streak 🔥</h2>
 
@@ -121,5 +114,20 @@ Welcome to my GitHub Page!
   </a>
 </div>
 
+<h2 align="center"></h2>
+
+<!-- Streak stats (Light mode) -->
+<div align="center">
+  <a href="https://github.com/iibrahemali#gh-light-mode-only"><img alt="Ibrahem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iibrahemali&bg_color=0d1117&color=ffffff&line=0891b2&point=FFFFFF&hide_border=true" /></a>
+</div>
+
+
+<!-- Graph stats (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/iibrahemali#gh-dark-mode-only"><img alt="Ibrahem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iibrahemali&bg_color=0d1117&color=ffffff&line=0891b2&point=FFFFFF&hide_border=true" /></a>
+</div>
+
+
+  
 <hr/>
 <br/>
