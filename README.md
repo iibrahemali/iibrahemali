@@ -4,16 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey+There!+👋;+I'm+Ibrahem+Ali!;" />
 </h1>
 
-<h3 align="center"> An Aspiring Software Engineer Based in PA 🇺🇸 </h3>
+<h3 align="center"> Software Engineer / Comp Sci Undergrad. Student / Based in PA </h3>
 <div align="center">
 Welcome to my GitHub Page!
 <br></br>
-<i> I'm Ibrahem, an undergrad student at <a href="https://www.fandm.edu"> F&M</a>, double majoring in Comp Sci and Data Sci. I do ML/DL, GenAI, and DA. I am passionate to collaborate on intriguing projects and solving challenges, so feel free to email me at <a href="mailto:iali@fandm.edu"> iali@fandm.edu</a> — I love to team up. </i>   
+<i> I'm Ibrahem, an undergrad student at <a href="https://www.fandm.edu"> F&M</a>, double majoring in Comp Sci and Data Sci. I do ML/DL, GenAI, and DA. I am passionate to collaborate on intriguing projects and solving challenges, so feel free to email me at <a href="mailto:iali@fandm.edu"> iali@fandm.edu</a> — I'd love to collab </i>   
     </br>
     </br>
     </div>
 <div align="center"> 
-  <a href="https://linkedin.com/in/ibrahemalii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibra" height="30" width="40" /></a>
+      <a href="https://www.kaggle.com/ibrahemali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ibra" height="30" width="40" /></a>    
+      <a href="https://linkedin.com/in/ibrahemalii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibra" height="30" width="40" /></a>
+      <a href="https://linkedin.com/in/ibrahemalii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibra" height="30" width="40" /></a>
     </div>
     <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
