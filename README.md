@@ -15,7 +15,7 @@ Welcome to my GitHub Page!
 <div align="center"> 
       <a href="https://www.kaggle.com/ibrahemali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ibra" height="30" width="40" /></a>    
       <a href="https://linkedin.com/in/ibrahemalii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibra" height="30" width="40" /></a>
-      <a href="https://linkedin.com/in/ibrahemalii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibra" height="30" width="40" /></a>
+      <a href="https://leetcode.com/u/ibrahemali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibra" height="30" width="40" /></a>
     </div>
     <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
