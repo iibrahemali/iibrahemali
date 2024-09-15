@@ -21,7 +21,7 @@ Welcome to my GitHub Page!
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,js,html,css,ruby,cpp,mysql,latex,r,matlab" />
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,firebase,figma,idea,git,aws,ai,notion,ps,blender" /><br></br>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,firebase,figma,idea,git,ai,ps,blender" /><br></br>
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) 
