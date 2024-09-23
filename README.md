@@ -20,7 +20,7 @@ Welcome to my GitHub Page!
     <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,ruby,cpp,mysql,latex,r,matlab" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,ruby,cpp,latex,r,matlab" />
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,linux,firebase,figma,idea,git,ai,ps,blender" /><br></br>
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
