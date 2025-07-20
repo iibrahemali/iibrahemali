@@ -18,10 +18,10 @@
     <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,ruby,cpp,latex,r,matlab" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,ruby,cpp,latex,r,matlab,dart" />
     <br></br>
 
-![FRAMEWORKS/LIBRARIES](https://go-skill-icons.vercel.app/api/icons?i=flask,opencv,matplotlib,numpy,pandas,pytorch,scikitlearn,scipy,socketio,django,react&titles=true)
+![FRAMEWORKS/LIBRARIES](https://go-skill-icons.vercel.app/api/icons?i=flask,opencv,matplotlib,numpy,pandas,pytorch,scikitlearn,scipy,socketio,django,react,flutter&titles=true)
 ![FRAMEWORKS/LIBRARIES](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,linux,xcode,firebase,figma,git,blender&titles=true)
 <br>
     </div>
