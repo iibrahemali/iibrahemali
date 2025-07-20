@@ -99,7 +99,7 @@
 
 <h2 align="center"></h2>
 
-<!-- Streak stats (Light mode) -->
+<!-- Graph stats (Light mode) -->
 <div align="center">
   <a href="https://github.com/iibrahemali#gh-light-mode-only"><img alt="Ibrahem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iibrahemali&bg_color=ffffff&color=0d1117&line=0891b2&point=0d1117&hide_border=true" /></a>
 </div>
