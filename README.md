@@ -6,7 +6,7 @@
 
 <h3 align="center"> Software Engineer / Comp Sci Undergrad Student / Based in PA </h3>
 <div align="center">
-<code> I'm Ibrahem, an undergrad student at <a href="https://www.fandm.edu">F&M</a>, double majoring in Comp Sci and Data Sci with an Appl Math minor. Specializing in ML, DL, NLP, and scalable software systems. Focused on building intriguing solutions and advancing AI-driven technologies. Feel free to email me at <a href="mailto:iali@fandm.edu">iali@fandm.edu</a> — I'd love to collab </code>   
+<code> I'm Ibrahem, an undergrad student at <a href="https://www.fandm.edu">F&M</a>, double majoring in Comp Sci and Data Sci with an Appl Math minor. Specializing in ML, DL, NLP, and scalable software systems. Focused on building intriguing solutions and advancing AI-driven technologies. Feel free to email me at <a href="mailto:iali@fandm.edu">iali [at] fandm.edu</a> — I'd love to collab </code>   
     </br>
     </br>
     </div>
