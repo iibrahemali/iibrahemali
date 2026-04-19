@@ -6,15 +6,24 @@
 
 <h3 align="center"> Software Engineer / Comp Sci Undergrad Student / Based in PA </h3>
 <div align="center">
-<code> I'm Ibrahem, an undergrad student at <a href="https://www.fandm.edu">F&M</a>, double majoring in Comp Sci and Data Sci with an Appl Math minor. Specializing in ML, DL, NLP, and reliable software systems. Focused on building intriguing solutions and advancing AI-driven technologies. Feel free to email me at <a href="mailto:iali@fandm.edu">iali [at] fandm.edu</a> — I'd love to collab </code>   
-    </br>
-    </br>
+<code> I'm Ibrahem, an undergrad student at <a href="https://www.fandm.edu">F&M</a>, double majoring in Comp Sci and Data Sci with an Appl Math minor. Specializing in ML, DL, NLP, and reliable software systems. Focused on building intriguing solutions and advancing AI-driven technologies. Feel free to email me at <a href="mailto:iali@fandm.edu">iali [at] fandm.edu</a> — I'd love to collab </code> 
+    <br><br>
     </div>
-<div align="center"> 
-      <a href="https://www.kaggle.com/ibrahemali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ibra" height="30" width="40" /></a>    
-      <a href="https://linkedin.com/in/ibrahemalii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibra" height="30" width="40" /></a>
-      <a href="https://leetcode.com/u/ibrahemali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibra" height="30" width="40" /></a>
-    </div>
+<!-- <div align="center">
+  <a href="https://www.kaggle.com/ibrahemali1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ibrahemalii/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/ibrahemali/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</div> -->
+
+</div>
     <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
