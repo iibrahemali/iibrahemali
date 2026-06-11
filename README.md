@@ -24,8 +24,8 @@
 </div> -->
 
 </div>
-    <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <!-- <hr/> -->
+<h2 align="center">..env</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,ruby,cpp,latex,r,matlab,dart" />
     <br></br>
@@ -34,20 +34,18 @@
 ![FRAMEWORKS/LIBRARIES](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,linux,xcode,firebase,figma,git,blender&titles=true)
 <br>
     </div>
-    <hr/>
-
 
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>..log</h2>
     <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iibrahemali/iibrahemali/output/github-contribution-grid-snake.svg" />
     <br>
     </div>
-    <hr/>
+    <!-- <hr/> -->
 
 
-<h2 align="center">📟 GitHub Stats 📟</h2>
+<h2 align="center">..kpi</h2>
 
 <!-- GRS (Light Mode) -->
 <div align="center"> 
@@ -83,7 +81,7 @@
 </div>
 
 
-<h2 align="center">🔥 Streak 🔥</h2>
+<h2 align="center">..uptime</h2>
 
 <!-- Streak stats (Light mode) -->
 <div align="center">
@@ -118,8 +116,3 @@
 <div align="center">
   <a href="https://github.com/iibrahemali#gh-dark-mode-only"><img alt="Ibrahem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iibrahemali&bg_color=0d1117&color=ffffff&line=0891b2&point=FFFFFF&hide_border=true" /></a>
 </div>
-
-
-  
-<hr/>
-<br/>
