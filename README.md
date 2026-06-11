@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iibrahemali.iibrahemali" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey+There!+👋;+I'm+Ibrahem+Ali!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey+There!+👋;+I'm+Ibrahem+H.+Ali!;" />
 </h1>
 
 <h3 align="center"> Software Engineer / Comp Sci Undergrad Student / Based in PA </h3>
