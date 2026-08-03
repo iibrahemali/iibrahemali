@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey!;+I'm+Ibrahem+H.+Ali!;" />
 </h1>
 
-<h3 align="center"> Software Engineer / Comp Sci Undergrad Student / Based in PA </h3>
+<!-- <h3 align="center"> Software Engineer / Comp Sci Undergrad Student / Based in PA </h3> -->
 <div align="center">
-<code> I'm Ibrahem, an undergrad student at <a href="https://www.fandm.edu">F&M</a>, double majoring in Comp Sci and Data Sci with an Appl Math minor. Specializing in ML, DL, NLP, and reliable software systems. Focused on building intriguing solutions and advancing AI-driven technologies. Feel free to email me at <a href="mailto:iali@fandm.edu">iali [at] fandm.edu</a> — I'd love to collab </code> 
+<code> I'm Ibrahem. I build with algorithmic rigor, ensuring the software is reliable underneath and pleasant to use on top. At my core I'm a designer: of systems, of algorithms, of models. I'm currently pursuing a double major in Computer Science and Data Science at <a href="https://www.fandm.edu">F&M</a>, with a minor in Applied Math. For more, or to reach me, head to <a href="https://ibrahemali.vercel.app/#connect">my website</a></code>.
     <br><br>
     </div>
 <!-- <div align="center">
