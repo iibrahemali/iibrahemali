@@ -4,46 +4,32 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey!;+I'm+Ibrahem+H.+Ali!;" />
 </h1>
 
-<!-- <h3 align="center"> Software Engineer / Comp Sci Undergrad Student / Based in PA </h3> -->
 <div align="center">
 <code> I'm Ibrahem. I build with algorithmic rigor, ensuring the software is reliable underneath and pleasant to use on top. At my core I'm a designer: of systems, of algorithms, of models. I'm currently pursuing a double major in Computer Science and Data Science at <a href="https://www.fandm.edu">F&M</a>, with a minor in Applied Math. For more, or to reach me, head to <a href="https://ibrahemali.vercel.app/#connect">my website</a></code>.
     <br><br>
-    </div>
-<!-- <div align="center">
-  <a href="https://www.kaggle.com/ibrahemali1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ibrahemalii/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ibrahemali/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</div> -->
-
 </div>
-    <!-- <hr/> -->
+
 <h2 align="center">..env</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,ruby,cpp,latex,r,matlab,dart" />
-    <br></br>
 
-![FRAMEWORKS/LIBRARIES](https://go-skill-icons.vercel.app/api/icons?i=flask,opencv,matplotlib,numpy,pandas,pytorch,scikitlearn,scipy,socketio,django,react,flutter&titles=true)
-![FRAMEWORKS/LIBRARIES](https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,linux,xcode,firebase,figma,git,blender&titles=true)
-<br>
-    </div>
+![LANGUAGES](https://go-skill-icons.vercel.app/api/icons?i=python,go,java,ts,js,cpp,r&titles=true)
 
+![AI/ML](https://go-skill-icons.vercel.app/api/icons?i=pytorch,scikitlearn,langchain,numpy,pandas,opencv,matplotlib&titles=true)
+
+![BACKEND](https://go-skill-icons.vercel.app/api/icons?i=django,flask,firebase,postgresql&titles=true)
+
+![FRONTEND](https://go-skill-icons.vercel.app/api/icons?i=react,flutter,html,css,figma&titles=true)
+
+![TOOLS](https://go-skill-icons.vercel.app/api/icons?i=git,linux,vscode,latex,pycharm,docker,androidstudio&titles=true)
+
+</div>
 
 <div align="center">
   <h2>..log</h2>
     <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iibrahemali/iibrahemali/output/github-contribution-grid-snake.svg" />
     <br>
-    </div>
-    <!-- <hr/> -->
-
+</div>
 
 <h2 align="center">..kpi</h2>
 
@@ -80,7 +66,6 @@
   </a>
 </div>
 
-
 <h2 align="center">..uptime</h2>
 
 <!-- Streak stats (Light mode) -->
@@ -92,7 +77,6 @@
      />
   </a>
 </div>
-
 
 <!-- Streak stats (Dark mode) -->
 <div align="center">
@@ -110,7 +94,6 @@
 <div align="center">
   <a href="https://github.com/iibrahemali#gh-light-mode-only"><img alt="Ibrahem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iibrahemali&bg_color=ffffff&color=0d1117&line=0891b2&point=0d1117&hide_border=true" /></a>
 </div>
-
 
 <!-- Graph stats (Dark mode) -->
 <div align="center">
