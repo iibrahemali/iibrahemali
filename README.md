@@ -10,10 +10,12 @@
 <code> I'm Ibrahem. I build with algorithmic rigor, ensuring the software is reliable underneath and pleasant to use on top. At my core I'm a designer: of systems, of algorithms, of models. I'm currently pursuing a double major in Computer Science and Data Science at <a href="https://www.fandm.edu">F&M</a>, with a minor in Applied Math. For more, or to reach me, head to <a href="https://ibrahemali.vercel.app/#connect">my website</a></code>.
     <br><br> -->
 </div>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a7541284-fde4-4acb-9ac2-f95ba078cd60" width="600">
+</div>
 
 <div align="center">
   <h2>..log</h2>
-    <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iibrahemali/iibrahemali/output/github-contribution-grid-snake.svg" />
     <br>
 </div>
@@ -28,6 +30,8 @@
       alt="My Github stats"
     />
   </a>   
+  <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="400"> -->
+
   <!-- <a href="https://github.com/iibrahemali#gh-light-mode-only">
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=compact&hide_border=true&langs_count=10#gh-light-mode-only"
@@ -44,6 +48,8 @@
       alt="My Github stats"
     />
   </a>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="380">
+
   <!-- <a href="https://github.com/iibrahemali#gh-dark-mode-only">
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=compact&icon_color=0891b2&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
