@@ -4,10 +4,11 @@
   <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=4000&pause=100&color=AEEED3FF&center=true&vCenter=true&width=435&separator=%3C&lines=Yo!%3CI'm+Ibrahem+H.+Ali%3C;%29" alt="Typing SVG" />
 </h1>
 
-
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12+Charted&size=23&pause=200&color=FFF8B0&center=true&vCenter=true&width=600&lines=I+build+with+algorithmic+rigor%2C+;ensuring+the+software+is+reliable+underneath+and+pleasant+to+use+on+top.;At+my+core+I'm+a+designer%3A;of+systems%2C+of+algorithms%2C+of+models." alt="Typing SVG" /></a>
+<!-- <div align="center">
 <code> I'm Ibrahem. I build with algorithmic rigor, ensuring the software is reliable underneath and pleasant to use on top. At my core I'm a designer: of systems, of algorithms, of models. I'm currently pursuing a double major in Computer Science and Data Science at <a href="https://www.fandm.edu">F&M</a>, with a minor in Applied Math. For more, or to reach me, head to <a href="https://ibrahemali.vercel.app/#connect">my website</a></code>.
-    <br><br>
+    <br><br> -->
 </div>
 
 <div align="center">
@@ -15,21 +16,6 @@
     <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/iibrahemali/iibrahemali/output/github-contribution-grid-snake.svg" />
     <br>
-</div>
-
-<h2 align="center">..env</h2>
-<div align="center">
-
-![LANGUAGES](https://go-skill-icons.vercel.app/api/icons?i=python,go,java,ts,js,cpp,r&titles=true)
-
-![AI/ML](https://go-skill-icons.vercel.app/api/icons?i=pytorch,scikitlearn,langchain,numpy,pandas,opencv,matplotlib&titles=true)
-
-![BACKEND](https://go-skill-icons.vercel.app/api/icons?i=django,flask,firebase,postgresql&titles=true)
-
-![FRONTEND](https://go-skill-icons.vercel.app/api/icons?i=react,flutter,html,css,figma&titles=true)
-
-![TOOLS](https://go-skill-icons.vercel.app/api/icons?i=git,linux,vscode,latex,pycharm,docker,androidstudio&titles=true)
-
 </div>
 
 <h2 align="center">..kpi</h2>
@@ -99,3 +85,17 @@
 <!-- <div align="center">
   <a href="https://github.com/iibrahemali#gh-dark-mode-only"><img alt="Ibrahem's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iibrahemali&bg_color=0d1117&color=ffffff&line=0891b2&point=FFFFFF&hide_border=true" /></a>
 </div> -->
+<h2 align="center">..env</h2>
+<div align="center">
+
+![LANGUAGES](https://go-skill-icons.vercel.app/api/icons?i=python,go,java,ts,js,cpp,r&titles=true)
+
+![AI/ML](https://go-skill-icons.vercel.app/api/icons?i=pytorch,scikitlearn,langchain,numpy,pandas,opencv,matplotlib&titles=true)
+
+![BACKEND](https://go-skill-icons.vercel.app/api/icons?i=django,flask,firebase,postgresql&titles=true)
+
+![FRONTEND](https://go-skill-icons.vercel.app/api/icons?i=react,flutter,html,css,figma&titles=true)
+
+![TOOLS](https://go-skill-icons.vercel.app/api/icons?i=git,linux,vscode,latex,pycharm,docker,androidstudio&titles=true)
+
+</div>
