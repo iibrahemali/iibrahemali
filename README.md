@@ -1,18 +1,27 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iibrahemali.iibrahemali" />
 
 <h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=22&amp;duration=4000&amp;pause=100&amp;color=AEEED3FF&amp;center=true&amp;vCenter=true&amp;width=435&amp;separator=%3C&amp;lines=Yo!%3CI'm+Ibrahem+H.+Ali%3C;%29" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=22&amp;duration=4000&amp;pause=100&amp;color=55A9A0FF&amp;center=true&amp;vCenter=true&amp;width=435&amp;separator=%3C&amp;lines=Yo!%3CI'm+Ibrahem+H.+Ali%3C;%29" />
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&amp;size=22&amp;duration=4000&amp;pause=100&amp;color=55A9A0FF&amp;center=true&amp;vCenter=true&amp;width=435&amp;separator=%3C&amp;lines=Yo!%3CI'm+Ibrahem+H.+Ali%3C;%29" alt="Yo! I'm Ibrahem H. Ali ;)" />
-  </picture>
+  <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=4000&pause=100&color=AEEED3FF&center=true&vCenter=true&width=435&separator=%3C&lines=Yo!%3CI'm+Ibrahem+H.+Ali%3C;%29" alt="Typing SVG" />
 </h1>
 
+<!-- (Light mode) -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12+Charted&size=23&pause=200&color=FFF8B0&center=true&vCenter=true&width=600&lines=I+build+with+algorithmic+rigor%2C+;ensuring+the+software+is+reliable+underneath+and+pleasant+to+use+on+top.;At+my+core+I'm+a+designer%3A;of+systems%2C+of+algorithms%2C+of+models." alt="Typing SVG" /></a>
+  <a href="https://github.com/iibrahemali#gh-light-mode-only">
+  <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12+Charted&size=23&pause=200&color=55A9A0&center=true&vCenter=true&width=600&lines=I+build+with+algorithmic+rigor%2C+;ensuring+the+software+is+reliable+underneath+and+pleasant+to+use+on+top.;At+my+core+I'm+a+designer%3A;of+systems%2C+of+algorithms%2C+of+models." alt="Typing SVG" /></a>
+  </a>
+</div>
+
+<!-- (Dark mode) -->
+<div align="center">
+  <a href="https://github.com/iibrahemali#gh-dark-mode-only">
+  <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jacquard+12+Charted&size=23&pause=200&color=FFF8B0&center=true&vCenter=true&width=600&lines=I+build+with+algorithmic+rigor%2C+;ensuring+the+software+is+reliable+underneath+and+pleasant+to+use+on+top.;At+my+core+I'm+a+designer%3A;of+systems%2C+of+algorithms%2C+of+models." alt="Typing SVG" />
+  </a>
+</div>
+
 <!-- <div align="center">
 <code> I'm Ibrahem. I build with algorithmic rigor, ensuring the software is reliable underneath and pleasant to use on top. At my core I'm a designer: of systems, of algorithms, of models. I'm currently pursuing a double major in Computer Science and Data Science at <a href="https://www.fandm.edu">F&M</a>, with a minor in Applied Math. For more, or to reach me, head to <a href="https://ibrahemali.vercel.app/#connect">my website</a></code>.
     <br><br> -->
+    
 </div>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/a7541284-fde4-4acb-9ac2-f95ba078cd60" width="600">
@@ -33,9 +42,11 @@
       src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&number_format=long&rank_icon=default&show=discussions_started#gh-light-mode-only"
       alt="My Github stats"
     />
-  </a>   
-  <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="400"> -->
-
+  </a>
+  
+  <a href="https://github.com/iibrahemali#gh-light-mode-only">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="365">
+  </a>
   <!-- <a href="https://github.com/iibrahemali#gh-light-mode-only">
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=compact&hide_border=true&langs_count=10#gh-light-mode-only"
@@ -52,8 +63,11 @@
       alt="My Github stats"
     />
   </a>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="365">
-
+  
+  <a href="https://github.com/iibrahemali#gh-dark-mode-only">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/403af6cc-32fd-4026-8fb5-ae523bf899c3" width="365">
+  </a>
+  
   <!-- <a href="https://github.com/iibrahemali#gh-dark-mode-only">
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=iibrahemali&layout=compact&icon_color=0891b2&include_all_commits=true&count_private=true&title_color=0891b2&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
