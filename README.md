@@ -39,7 +39,7 @@
 <div align="center"> 
   <a href="https://github.com/iibrahemali#gh-light-mode-only">
     <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&number_format=long&rank_icon=default&show=discussions_started#gh-light-mode-only"
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=iibrahemali&show_icons=true&include_all_commits=true&count_private=true&icon_color=0891b2&title_color=0891b2&hide_border=true&number_format=long&rank_icon=default&show=discussions_started#gh-light-mode-only"
       alt="My Github stats"
     />
   </a>
